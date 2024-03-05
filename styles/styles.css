@@ -9,6 +9,7 @@
 .navbar p {
     margin-left:-50px;
     font-size: 30px;
+    text-decoration: underline;
 }
 
 
@@ -18,7 +19,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 15px;
-    background-color: #403d39;
+    background-color: #2a2826;
     color: white;
     font-weight: 600;
     font-size: 20px;
@@ -38,6 +39,11 @@
 
 }
 
+
+.navbar li:hover {
+    text-decoration: underline;
+}
+
 span {
     color: darkgray;
     padding: 5px;
@@ -50,7 +56,7 @@ span {
 .section-two {
     display: flex;
     flex-direction: row ;
-    background-color: #403d39;
+    background-color: #2a2826;
     align-items: center;
     color: white;
     height: 100vh;
@@ -84,7 +90,7 @@ span {
 .landing-page-img {
     width: 580px;
     height: 350px;
-    border-radius: 7px;
+    border-radius: 10px;
     
 }
 
@@ -134,6 +140,9 @@ span {
     font-size: 40px;
     font-weight: bolder;
     color: #403d39;
+    margin-top: -130px;
+    margin-bottom: 70px;
+    text-decoration: underline;
 
 }
 
@@ -175,4 +184,75 @@ span {
     font-size: 30px;
     font-weight: 200;
     padding-right: 130px;
+}
+
+
+.section-five {
+    height: 40vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.section-five-flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #403d39;
+    width: 750px;
+    height: 120px;
+    border-radius: 13px;    
+    color: white;
+
+}
+
+
+.section-five-flexbox #sub {
+    font-weight: bold;
+}
+
+
+.section-five-flexbox #click {
+    font-weight: 200;
+}
+
+
+
+#newsletter-btn {
+    border: 2px solid white;
+    background-color: #403d39;
+    border-radius: 5px;
+    padding: 5px;
+    width: 86px;
+    height: 40px;
+    color: white;
+    cursor: pointer;
+    transition: 500ms;
+    
+}
+
+
+#newsletter-btn:hover {
+    background-color: white;
+    color: #2a2826;
+}
+
+
+.footer {
+    background-color: #2a2826;
+    height: 75px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+
+.footer  a{ 
+    color:white;
+
 }
