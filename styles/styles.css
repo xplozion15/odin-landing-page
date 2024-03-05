@@ -18,7 +18,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 15px;
-    background-color: #003049;
+    background-color: #403d39;
     color: white;
     font-weight: 600;
     font-size: 20px;
@@ -50,7 +50,7 @@ span {
 .section-two {
     display: flex;
     flex-direction: row ;
-    background-color: #003049;
+    background-color: #403d39;
     align-items: center;
     color: white;
     height: 100vh;
@@ -90,12 +90,11 @@ span {
 
 
 #landing-btn {
-    background-color: #3882f6;
-    color: white;
-    
+    background-color: white;
+    color: #2a2826;
     width: 85px;
     height: 35px;
-    border: 2px solid #3882f6;
+    border: 2px solid #403d39;
     border-radius: 5px;
     cursor: pointer;
     transition: 400ms;
@@ -103,15 +102,14 @@ span {
 }
 
 
-#landing-btn:hover {
-    background-color: white;
-    color: #3882f6;
-}
 
 
 
 .section-three {
-    height: 100vh;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     
 }
 
@@ -135,6 +133,7 @@ span {
     padding: 50px;
     font-size: 40px;
     font-weight: bolder;
+    color: #403d39;
 
 }
 
@@ -154,3 +153,26 @@ span {
 }
 
 
+
+
+.section-four {
+    background-color: #e5e7eb;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.section-four em {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.section-four p {
+    text-align: end;
+    font-size: 30px;
+    font-weight: 200;
+    padding-right: 130px;
+}
