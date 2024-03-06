@@ -60,6 +60,8 @@ span {
     align-items: center;
     color: white;
     height: 100vh;
+    justify-content: center;
+    width: 100vw;
     
 }
 
@@ -70,7 +72,7 @@ span {
     justify-content: start;
     width: 800px;
     height: 350px;
-    padding-left: 100px;
+    /* padding-left: 100px; */
     align-items: start;
     gap: 55px;
 
@@ -79,11 +81,13 @@ span {
 .section-two h1 {
     font-size: 48px;
     font-weight: bolder;
+    padding: 10px;
 }
 
 .section-two p {
     font-size: 18px;
     width: 600px;
+    padding-left: 10px;
 }
 
 
@@ -104,6 +108,7 @@ span {
     border-radius: 5px;
     cursor: pointer;
     transition: 400ms;
+    margin-left: 15px;
 
 }
 
