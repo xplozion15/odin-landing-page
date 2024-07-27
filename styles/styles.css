@@ -19,7 +19,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 15px;
-    background-color: #2a2826;
+    background-color: #023047;
     color: white;
     font-weight: 600;
     font-size: 20px;
@@ -56,7 +56,7 @@ span {
 .section-two {
     display: flex;
     flex-direction: row ;
-    background-color: #2a2826;
+    background-color: #023047;
     align-items: center;
     color: white;
     height: 100vh;
@@ -72,7 +72,6 @@ span {
     justify-content: start;
     width: 800px;
     height: 350px;
-    /* padding-left: 100px; */
     align-items: start;
     gap: 55px;
 
@@ -94,17 +93,17 @@ span {
 .landing-page-img {
     width: 580px;
     height: 400px;
-    border-radius: 30px;
+    border-radius: 15px;
     
 }
 
 
 #landing-btn {
     background-color: white;
-    color: #2a2826;
+    color: #023047;
     width: 85px;
     height: 35px;
-    border: 2px solid #403d39;
+    border: 2px solid #023047;
     border-radius: 5px;
     cursor: pointer;
     transition: 400ms;
@@ -121,6 +120,7 @@ span {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    
     
 }
 
@@ -144,7 +144,7 @@ span {
     padding: 50px;
     font-size: 40px;
     font-weight: bolder;
-    color: #403d39;
+    color: #023047;
     margin-top: -130px;
     margin-bottom: 70px;
     text-decoration: underline;
@@ -207,7 +207,7 @@ span {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: #403d39;
+    background-color: #09415d;
     width: 750px;
     height: 120px;
     border-radius: 13px;    
@@ -229,7 +229,7 @@ span {
 
 #newsletter-btn {
     border: 2px solid white;
-    background-color: #403d39;
+    background-color: #09415d;
     border-radius: 5px;
     padding: 5px;
     width: 86px;
@@ -243,12 +243,12 @@ span {
 
 #newsletter-btn:hover {
     background-color: white;
-    color: #2a2826;
+    color: #023047;
 }
 
 
 .footer {
-    background-color: #2a2826;
+    background-color: #023047;
     height: 75px;
     color: white;
     padding: 10px;
