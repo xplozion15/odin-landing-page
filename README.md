@@ -2,7 +2,7 @@
 
 Live link - https://xplozion15.github.io/odin-landing-page/
 
-Built a landing page using,
+Built a landing page using:
 - Flexbox for layout design
 - Typography for text styling
 - Effective use of colors
