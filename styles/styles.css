@@ -61,7 +61,7 @@ span {
     color: white;
     height: 100vh;
     justify-content: center;
-    width: 100vw;
+    /* width: 100vw; */
     
 }
 
@@ -92,7 +92,7 @@ span {
 
 
 .landing-page-img {
-    width: 590px;
+    width: 580px;
     height: 400px;
     border-radius: 30px;
     
