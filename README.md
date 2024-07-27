@@ -19,6 +19,6 @@ Live link: [https://xplozion15.github.io/odin-landing-page/](https://xplozion15.
 
 - [Image 3](https://www.freepik.com/free-photo/child-toys-still-life_4379805.htm#query=kids%20bedroom&position=3&from_view=keyword&track=ais_user&uuid=703ef618-3029-457b-bddd-4f1b7017b7cc) by [Freepik](https://www.freepik.com/author/freepik) on Freepik
 
-- [Image 4](https://www.pexels.com/photo/photo-of-living-room-1457842/) by [Jvdm](https://www.pexels.com/@jvdm/)
+- [Image 4](https://www.pexels.com/photo/photo-of-living-room-1457842/) by [Jvdm](https://www.pexels.com/@jvdm/) on pexels
 
-- [Image 5](https://www.pexels.com/photo/contemporary-kitchen-in-classic-style-6587891/) by [Heyho](https://www.pexels.com/@heyho/)
+- [Image 5](https://www.pexels.com/photo/contemporary-kitchen-in-classic-style-6587891/) by [Heyho](https://www.pexels.com/@heyho/) on pexels
