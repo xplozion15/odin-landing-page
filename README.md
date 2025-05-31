@@ -1,6 +1,6 @@
 # Odin Landing Page
 
-Live link: [https://xplozion15.github.io/odin-landing-page/](https://abhilash15500.github.io/odin-landing-page/)
+Live link: [https://xplozion15.github.io/odin-landing-page/](https://xplozion15.github.io/odin-landing-page/)
 
 
 ## Built A landing page using:
